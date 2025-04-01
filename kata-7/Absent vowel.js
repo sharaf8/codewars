@@ -6,3 +6,5 @@ function absentVowel(x){
         }
     }
 }
+
+console.log(absentVowel("sdfglkaahgqertigu"))
