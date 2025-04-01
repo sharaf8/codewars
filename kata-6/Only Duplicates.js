@@ -11,3 +11,5 @@ function onlyDuplicates(str) {
     }
     return result;
 }
+
+console.log(onlyDuplicates("feirufeigfrhlijhk"))
